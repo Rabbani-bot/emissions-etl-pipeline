@@ -1,0 +1,214 @@
+site,month,carrier,unit_std,quantity_std,source
+Depot,2024-01,diesel,litre,14246.6,depot.json
+Depot,2024-01,electricity,kWh,51643.8,depot.json
+Depot,2024-01,natural_gas,kWh,27870.4,depot.json
+Depot,2024-02,diesel,litre,13929.2,depot.json
+Depot,2024-02,electricity,kWh,53035.8,depot.json
+Depot,2024-02,natural_gas,kWh,24943.6,depot.json
+Depot,2024-03,diesel,litre,14566.3,depot.json
+Depot,2024-03,electricity,kWh,56908.4,depot.json
+Depot,2024-03,natural_gas,kWh,27936.9,depot.json
+Depot,2024-04,diesel,litre,15970.4,depot.json
+Depot,2024-04,electricity,kWh,58455.5,depot.json
+Depot,2024-04,natural_gas,kWh,24095.3,depot.json
+Depot,2024-05,diesel,litre,16086.9,depot.json
+Depot,2024-05,electricity,kWh,65524.9,depot.json
+Depot,2024-05,natural_gas,kWh,25651.9,depot.json
+Depot,2024-06,diesel,litre,14449.0,depot.json
+Depot,2024-06,electricity,kWh,64067.9,depot.json
+Depot,2024-06,natural_gas,kWh,22833.5,depot.json
+Depot,2024-07,diesel,litre,14198.0,depot.json
+Depot,2024-07,electricity,kWh,68704.2,depot.json
+Depot,2024-07,natural_gas,kWh,22596.1,depot.json
+Depot,2024-08,diesel,litre,13837.9,depot.json
+Depot,2024-08,electricity,kWh,66696.7,depot.json
+Depot,2024-08,natural_gas,kWh,20719.0,depot.json
+Depot,2024-09,diesel,litre,13541.8,depot.json
+Depot,2024-09,electricity,kWh,61698.1,depot.json
+Depot,2024-09,natural_gas,kWh,23648.2,depot.json
+Depot,2024-10,diesel,litre,14302.5,depot.json
+Depot,2024-10,electricity,kWh,61484.4,depot.json
+Depot,2024-10,natural_gas,kWh,26023.8,depot.json
+Depot,2024-11,diesel,litre,13561.2,depot.json
+Depot,2024-11,electricity,kWh,57113.3,depot.json
+Depot,2024-11,natural_gas,kWh,26623.2,depot.json
+Depot,2024-12,diesel,litre,14380.2,depot.json
+Depot,2024-12,electricity,kWh,53410.8,depot.json
+Depot,2024-12,natural_gas,kWh,26914.1,depot.json
+Depot,2025-01,diesel,litre,12697.9,depot.json
+Depot,2025-01,electricity,kWh,52829.8,depot.json
+Depot,2025-01,natural_gas,kWh,28813.8,depot.json
+Depot,2025-02,diesel,litre,13280.4,depot.json
+Depot,2025-02,electricity,kWh,55673.9,depot.json
+Depot,2025-02,natural_gas,kWh,26545.6,depot.json
+Depot,2025-04,diesel,litre,13171.1,depot.json
+Depot,2025-04,electricity,kWh,58622.0,depot.json
+Depot,2025-04,natural_gas,kWh,23663.2,depot.json
+Depot,2025-05,diesel,litre,12855.8,depot.json
+Depot,2025-05,electricity,kWh,66937.7,depot.json
+Depot,2025-05,natural_gas,kWh,23552.0,depot.json
+Depot,2025-06,diesel,litre,15753.8,depot.json
+Depot,2025-06,electricity,kWh,66257.6,depot.json
+Depot,2025-06,natural_gas,kWh,20659.1,depot.json
+Depot,2025-07,diesel,litre,14532.8,depot.json
+Depot,2025-07,electricity,kWh,63102.2,depot.json
+Depot,2025-07,natural_gas,kWh,22526.6,depot.json
+Depot,2025-08,diesel,litre,14977.2,depot.json
+Depot,2025-08,electricity,kWh,62393.7,depot.json
+Depot,2025-08,natural_gas,kWh,22738.299999999996,depot.json
+Depot,2025-09,diesel,litre,14930.1,depot.json
+Depot,2025-09,electricity,kWh,64789.5,depot.json
+Depot,2025-09,natural_gas,kWh,23806.7,depot.json
+Depot,2025-10,diesel,litre,13875.8,depot.json
+Depot,2025-10,electricity,kWh,60386.200000000004,depot.json
+Depot,2025-10,natural_gas,kWh,25420.5,depot.json
+Depot,2025-11,diesel,litre,14775.9,depot.json
+Depot,2025-11,electricity,kWh,57825.4,depot.json
+Depot,2025-11,natural_gas,kWh,25252.7,depot.json
+Depot,2025-12,diesel,litre,14357.9,depot.json
+Depot,2025-12,electricity,kWh,52677.9,depot.json
+Depot,2025-12,natural_gas,kWh,26093.1,depot.json
+North Plant,2024-01,diesel,litre,5645.8,north_plant.csv
+North Plant,2024-01,electricity,kWh,458225.9,north_plant.csv
+North Plant,2024-01,natural_gas,kWh,251190.64700000003,north_plant.csv
+North Plant,2024-02,diesel,litre,5008.0,north_plant.csv
+North Plant,2024-02,electricity,kWh,456448.7,north_plant.csv
+North Plant,2024-02,natural_gas,kWh,228370.04750000002,north_plant.csv
+North Plant,2024-03,diesel,litre,5471.9,north_plant.csv
+North Plant,2024-03,electricity,kWh,499939.3,north_plant.csv
+North Plant,2024-03,natural_gas,kWh,221976.00900000002,north_plant.csv
+North Plant,2024-04,diesel,litre,5164.9,north_plant.csv
+North Plant,2024-04,electricity,kWh,481575.6,north_plant.csv
+North Plant,2024-04,natural_gas,kWh,226448.787,north_plant.csv
+North Plant,2024-05,diesel,litre,5062.0,north_plant.csv
+North Plant,2024-05,electricity,kWh,566201.0,north_plant.csv
+North Plant,2024-05,natural_gas,kWh,196052.127,north_plant.csv
+North Plant,2024-06,diesel,litre,5126.3,north_plant.csv
+North Plant,2024-06,electricity,kWh,584673.7,north_plant.csv
+North Plant,2024-06,natural_gas,kWh,195933.756,north_plant.csv
+North Plant,2024-07,diesel,litre,4883.2,north_plant.csv
+North Plant,2024-07,electricity,kWh,578840.7,north_plant.csv
+North Plant,2024-07,natural_gas,kWh,191135.93250000002,north_plant.csv
+North Plant,2024-08,diesel,litre,4955.9,north_plant.csv
+North Plant,2024-08,electricity,kWh,539267.3,north_plant.csv
+North Plant,2024-08,natural_gas,kWh,191892.47300000003,north_plant.csv
+North Plant,2024-09,diesel,litre,5029.8,north_plant.csv
+North Plant,2024-09,electricity,kWh,508860.3,north_plant.csv
+North Plant,2024-09,natural_gas,kWh,189365.326,north_plant.csv
+North Plant,2024-10,diesel,litre,5213.3,north_plant.csv
+North Plant,2024-10,electricity,kWh,495181.4,north_plant.csv
+North Plant,2024-10,natural_gas,kWh,194329.10100000002,north_plant.csv
+North Plant,2024-11,diesel,litre,4929.3,north_plant.csv
+North Plant,2024-11,electricity,kWh,506343.0,north_plant.csv
+North Plant,2024-11,natural_gas,kWh,220005.16350000002,north_plant.csv
+North Plant,2024-12,diesel,litre,5090.8,north_plant.csv
+North Plant,2024-12,electricity,kWh,473135.7,north_plant.csv
+North Plant,2024-12,natural_gas,kWh,240137.5175,north_plant.csv
+North Plant,2025-01,diesel,litre,5124.7,north_plant.csv
+North Plant,2025-01,electricity,kWh,467569.6,north_plant.csv
+North Plant,2025-01,natural_gas,kWh,247464.176,north_plant.csv
+North Plant,2025-02,diesel,litre,5290.1,north_plant.csv
+North Plant,2025-02,electricity,kWh,450797.4,north_plant.csv
+North Plant,2025-02,natural_gas,kWh,235853.479,north_plant.csv
+North Plant,2025-03,diesel,litre,4959.2,north_plant.csv
+North Plant,2025-03,electricity,kWh,510284.0,north_plant.csv
+North Plant,2025-03,natural_gas,kWh,208302.576,north_plant.csv
+North Plant,2025-04,diesel,litre,5246.0,north_plant.csv
+North Plant,2025-04,electricity,kWh,502566.1,north_plant.csv
+North Plant,2025-04,natural_gas,kWh,191792.77550000002,north_plant.csv
+North Plant,2025-05,diesel,litre,5704.4,north_plant.csv
+North Plant,2025-05,electricity,kWh,562837.0,north_plant.csv
+North Plant,2025-05,natural_gas,kWh,190108.1515,north_plant.csv
+North Plant,2025-06,diesel,litre,5346.2,north_plant.csv
+North Plant,2025-06,electricity,kWh,592912.7,north_plant.csv
+North Plant,2025-06,natural_gas,kWh,194078.96050000002,north_plant.csv
+North Plant,2025-07,diesel,litre,5423.5,north_plant.csv
+North Plant,2025-07,electricity,kWh,604663.3,north_plant.csv
+North Plant,2025-07,natural_gas,kWh,172492.5,north_plant.csv
+North Plant,2025-08,diesel,litre,5326.3,north_plant.csv
+North Plant,2025-08,electricity,kWh,587880.7,north_plant.csv
+North Plant,2025-08,natural_gas,kWh,171543.94950000002,north_plant.csv
+North Plant,2025-09,diesel,litre,5040.2,north_plant.csv
+North Plant,2025-09,electricity,kWh,545678.7,north_plant.csv
+North Plant,2025-09,natural_gas,kWh,205113.6275,north_plant.csv
+North Plant,2025-10,diesel,litre,4881.0,north_plant.csv
+North Plant,2025-10,electricity,kWh,519620.6,north_plant.csv
+North Plant,2025-10,natural_gas,kWh,213599.942,north_plant.csv
+North Plant,2025-11,diesel,litre,5379.3,north_plant.csv
+North Plant,2025-11,electricity,kWh,500503.8,north_plant.csv
+North Plant,2025-11,natural_gas,kWh,221431.84,north_plant.csv
+North Plant,2025-12,diesel,litre,5420.3,north_plant.csv
+North Plant,2025-12,electricity,kWh,456233.8,north_plant.csv
+North Plant,2025-12,natural_gas,kWh,244414.17100000003,north_plant.csv
+South Plant,2024-01,diesel,litre,8596.6,south_plant.xlsx
+South Plant,2024-01,electricity,kWh,332018.7,south_plant.xlsx
+South Plant,2024-01,natural_gas,kWh,184862.3,south_plant.xlsx
+South Plant,2024-02,diesel,litre,8388.4,south_plant.xlsx
+South Plant,2024-02,electricity,kWh,364905.7,south_plant.xlsx
+South Plant,2024-02,natural_gas,kWh,162730.8,south_plant.xlsx
+South Plant,2024-03,diesel,litre,7343.299999999998,south_plant.xlsx
+South Plant,2024-03,electricity,kWh,363844.9,south_plant.xlsx
+South Plant,2024-03,natural_gas,kWh,168804.1,south_plant.xlsx
+South Plant,2024-04,diesel,litre,8213.5,south_plant.xlsx
+South Plant,2024-04,electricity,kWh,399109.30000000005,south_plant.xlsx
+South Plant,2024-04,natural_gas,kWh,149906.1,south_plant.xlsx
+South Plant,2024-05,diesel,litre,7732.699999999999,south_plant.xlsx
+South Plant,2024-05,electricity,kWh,423775.69999999995,south_plant.xlsx
+South Plant,2024-05,natural_gas,kWh,138370.5,south_plant.xlsx
+South Plant,2024-06,diesel,litre,8737.4,south_plant.xlsx
+South Plant,2024-06,electricity,kWh,397522.60000000003,south_plant.xlsx
+South Plant,2024-06,natural_gas,kWh,145121.8,south_plant.xlsx
+South Plant,2024-07,diesel,litre,7582.099999999999,south_plant.xlsx
+South Plant,2024-07,electricity,kWh,460049.0,south_plant.xlsx
+South Plant,2024-07,natural_gas,kWh,128282.1,south_plant.xlsx
+South Plant,2024-08,diesel,litre,8132.899999999999,south_plant.xlsx
+South Plant,2024-08,electricity,kWh,431296.0,south_plant.xlsx
+South Plant,2024-08,natural_gas,kWh,154694.2,south_plant.xlsx
+South Plant,2024-09,diesel,litre,7890.800000000002,south_plant.xlsx
+South Plant,2024-09,electricity,kWh,390778.0,south_plant.xlsx
+South Plant,2024-09,natural_gas,kWh,152634.4,south_plant.xlsx
+South Plant,2024-10,diesel,litre,8114.200000000001,south_plant.xlsx
+South Plant,2024-10,electricity,kWh,376903.1,south_plant.xlsx
+South Plant,2024-10,natural_gas,kWh,154124.2,south_plant.xlsx
+South Plant,2024-11,diesel,litre,7777.4000000000015,south_plant.xlsx
+South Plant,2024-11,electricity,kWh,361599.0,south_plant.xlsx
+South Plant,2024-11,natural_gas,kWh,168811.5,south_plant.xlsx
+South Plant,2024-12,diesel,litre,8567.2,south_plant.xlsx
+South Plant,2024-12,electricity,kWh,323008.2,south_plant.xlsx
+South Plant,2024-12,natural_gas,kWh,172334.1,south_plant.xlsx
+South Plant,2025-01,diesel,litre,8637.9,south_plant.xlsx
+South Plant,2025-01,electricity,kWh,331851.1,south_plant.xlsx
+South Plant,2025-01,natural_gas,kWh,166300.3,south_plant.xlsx
+South Plant,2025-02,diesel,litre,7934.5999999999985,south_plant.xlsx
+South Plant,2025-02,electricity,kWh,347731.7,south_plant.xlsx
+South Plant,2025-02,natural_gas,kWh,195245.0,south_plant.xlsx
+South Plant,2025-03,diesel,litre,8632.1,south_plant.xlsx
+South Plant,2025-03,electricity,kWh,350607.7,south_plant.xlsx
+South Plant,2025-03,natural_gas,kWh,157324.0,south_plant.xlsx
+South Plant,2025-04,diesel,litre,7542.2,south_plant.xlsx
+South Plant,2025-04,electricity,kWh,419056.6,south_plant.xlsx
+South Plant,2025-04,natural_gas,kWh,153432.5,south_plant.xlsx
+South Plant,2025-05,diesel,litre,7750.399999999998,south_plant.xlsx
+South Plant,2025-05,electricity,kWh,412405.8,south_plant.xlsx
+South Plant,2025-05,natural_gas,kWh,144155.8,south_plant.xlsx
+South Plant,2025-06,diesel,litre,8505.399999999998,south_plant.xlsx
+South Plant,2025-06,electricity,kWh,413620.60000000003,south_plant.xlsx
+South Plant,2025-06,natural_gas,kWh,144748.4,south_plant.xlsx
+South Plant,2025-07,diesel,litre,7667.800000000002,south_plant.xlsx
+South Plant,2025-07,electricity,kWh,425975.7,south_plant.xlsx
+South Plant,2025-07,natural_gas,kWh,147269.1,south_plant.xlsx
+South Plant,2025-08,diesel,litre,7098.2,south_plant.xlsx
+South Plant,2025-08,electricity,kWh,424991.10000000003,south_plant.xlsx
+South Plant,2025-08,natural_gas,kWh,128044.2,south_plant.xlsx
+South Plant,2025-09,diesel,litre,8220.7,south_plant.xlsx
+South Plant,2025-09,electricity,kWh,415623.8,south_plant.xlsx
+South Plant,2025-09,natural_gas,kWh,145962.1,south_plant.xlsx
+South Plant,2025-10,diesel,litre,8349.0,south_plant.xlsx
+South Plant,2025-10,electricity,kWh,388243.60000000003,south_plant.xlsx
+South Plant,2025-10,natural_gas,kWh,170578.2,south_plant.xlsx
+South Plant,2025-11,diesel,litre,7513.800000000001,south_plant.xlsx
+South Plant,2025-11,electricity,kWh,371730.8,south_plant.xlsx
+South Plant,2025-11,natural_gas,kWh,168653.0,south_plant.xlsx
+South Plant,2025-12,diesel,litre,7275.199999999998,south_plant.xlsx
+South Plant,2025-12,electricity,kWh,330545.1,south_plant.xlsx
+South Plant,2025-12,natural_gas,kWh,172317.6,south_plant.xlsx

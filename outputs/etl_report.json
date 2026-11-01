@@ -1,0 +1,30 @@
+{
+  "rows_extracted": 214,
+  "duplicates_removed": 1,
+  "gaps": [
+    [
+      "Depot",
+      "2025-03",
+      "diesel"
+    ],
+    [
+      "Depot",
+      "2025-03",
+      "electricity"
+    ],
+    [
+      "Depot",
+      "2025-03",
+      "natural_gas"
+    ]
+  ],
+  "rows_loaded": 213,
+  "runtime_seconds": 0.034,
+  "accuracy": {
+    "truth_rows": 216,
+    "rows_recovered": 213,
+    "values_within_0.1pct": 213,
+    "accuracy_pct_of_recovered": 100.0,
+    "max_relative_error": 2.94385113924144e-07
+  }
+}

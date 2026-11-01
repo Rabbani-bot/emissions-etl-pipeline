@@ -1,0 +1,425 @@
+{
+ "site_name": "Depot",
+ "readings": [
+  {
+   "period_start": "2024-01-01",
+   "carrier": "electricity",
+   "quantity": 185.9176651265868,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-01-01",
+   "carrier": "natural_gas",
+   "quantity": 100.33343197332545,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-01-01",
+   "carrier": "diesel",
+   "quantity": 14246.6,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2024-02-01",
+   "carrier": "electricity",
+   "quantity": 190.92886472569083,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-02-01",
+   "carrier": "natural_gas",
+   "quantity": 89.79695281624376,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-02-01",
+   "carrier": "diesel",
+   "quantity": 13929.2,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2024-03-01",
+   "carrier": "electricity",
+   "quantity": 204.8702236103821,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-03-01",
+   "carrier": "natural_gas",
+   "quantity": 100.57283195417344,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-03-01",
+   "carrier": "diesel",
+   "quantity": 14566.3,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2024-04-01",
+   "carrier": "electricity",
+   "quantity": 210.43978316481733,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-04-01",
+   "carrier": "natural_gas",
+   "quantity": 86.74307306055415,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-04-01",
+   "carrier": "diesel",
+   "quantity": 15970.4,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2024-05-01",
+   "carrier": "electricity",
+   "quantity": 235.8896211288303,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-05-01",
+   "carrier": "natural_gas",
+   "quantity": 92.3468326122534,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-05-01",
+   "carrier": "diesel",
+   "quantity": 16086.9,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2024-06-01",
+   "carrier": "electricity",
+   "quantity": 230.64442154844627,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-06-01",
+   "carrier": "natural_gas",
+   "quantity": 82.20059342395253,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-06-01",
+   "carrier": "diesel",
+   "quantity": 14449.0,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2024-07-01",
+   "carrier": "electricity",
+   "quantity": 247.33510021319196,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-07-01",
+   "carrier": "natural_gas",
+   "quantity": 81.34595349232372,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-07-01",
+   "carrier": "diesel",
+   "quantity": 14198.0,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2024-08-01",
+   "carrier": "electricity",
+   "quantity": 240.10810079135192,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-08-01",
+   "carrier": "natural_gas",
+   "quantity": 74.58839403292848,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-08-01",
+   "carrier": "diesel",
+   "quantity": 13837.9,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2024-09-01",
+   "carrier": "electricity",
+   "quantity": 222.1131422309486,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-09-01",
+   "carrier": "natural_gas",
+   "quantity": 85.13351318931895,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-09-01",
+   "carrier": "diesel",
+   "quantity": 13541.8,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2024-10-01",
+   "carrier": "electricity",
+   "quantity": 221.34382229249422,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-10-01",
+   "carrier": "natural_gas",
+   "quantity": 93.68567250514619,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-10-01",
+   "carrier": "diesel",
+   "quantity": 14302.5,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2024-11-01",
+   "carrier": "electricity",
+   "quantity": 205.6078635513709,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-11-01",
+   "carrier": "natural_gas",
+   "quantity": 95.84351233251901,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-11-01",
+   "carrier": "diesel",
+   "quantity": 13561.2,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2024-12-01",
+   "carrier": "electricity",
+   "quantity": 192.27886461769083,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-12-01",
+   "carrier": "natural_gas",
+   "quantity": 96.89075224873982,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2024-12-01",
+   "carrier": "diesel",
+   "quantity": 14380.2,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2025-01-01",
+   "carrier": "electricity",
+   "quantity": 190.1872647850188,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-01-01",
+   "carrier": "natural_gas",
+   "quantity": 103.72967170162626,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-01-01",
+   "carrier": "diesel",
+   "quantity": 12697.9,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2025-02-01",
+   "carrier": "electricity",
+   "quantity": 200.4260239659181,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-02-01",
+   "carrier": "natural_gas",
+   "quantity": 95.5641523548678,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-02-01",
+   "carrier": "diesel",
+   "quantity": 13280.4,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2025-04-01",
+   "carrier": "electricity",
+   "quantity": 211.03918311686533,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-04-01",
+   "carrier": "natural_gas",
+   "quantity": 85.18751318499895,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-04-01",
+   "carrier": "diesel",
+   "quantity": 13171.1,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2025-05-01",
+   "carrier": "electricity",
+   "quantity": 240.97570072194392,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-05-01",
+   "carrier": "natural_gas",
+   "quantity": 84.78719321702454,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-05-01",
+   "carrier": "diesel",
+   "quantity": 12855.8,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2025-06-01",
+   "carrier": "electricity",
+   "quantity": 238.52734091781272,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-06-01",
+   "carrier": "natural_gas",
+   "quantity": 74.37275405017967,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-06-01",
+   "carrier": "diesel",
+   "quantity": 15753.8,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2025-07-01",
+   "carrier": "electricity",
+   "quantity": 227.16790182656783,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-07-01",
+   "carrier": "natural_gas",
+   "quantity": 81.09575351233971,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-07-01",
+   "carrier": "diesel",
+   "quantity": 14532.8,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2025-08-01",
+   "carrier": "electricity",
+   "quantity": 224.6173020306158,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-08-01",
+   "carrier": "natural_gas",
+   "quantity": 81.85787345137011,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-08-01",
+   "carrier": "diesel",
+   "quantity": 14977.2,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2025-09-01",
+   "carrier": "electricity",
+   "quantity": 233.24218134062548,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-09-01",
+   "carrier": "natural_gas",
+   "quantity": 85.70411314367095,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-09-01",
+   "carrier": "diesel",
+   "quantity": 14930.1,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2025-10-01",
+   "carrier": "electricity",
+   "quantity": 217.39030260877578,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-10-01",
+   "carrier": "natural_gas",
+   "quantity": 91.51379267889658,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-10-01",
+   "carrier": "diesel",
+   "quantity": 13875.8,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2025-11-01",
+   "carrier": "electricity",
+   "quantity": 208.17142334628613,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-11-01",
+   "carrier": "natural_gas",
+   "quantity": 90.90971272722298,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-11-01",
+   "carrier": "diesel",
+   "quantity": 14775.9,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2025-12-01",
+   "carrier": "electricity",
+   "quantity": 189.64042482876602,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-12-01",
+   "carrier": "natural_gas",
+   "quantity": 93.93515248518779,
+   "unit": "GJ"
+  },
+  {
+   "period_start": "2025-12-01",
+   "carrier": "diesel",
+   "quantity": 14357.9,
+   "unit": "litre"
+  },
+  {
+   "period_start": "2024-02-01",
+   "carrier": "diesel",
+   "quantity": 13929.2,
+   "unit": "litre"
+  }
+ ]
+}

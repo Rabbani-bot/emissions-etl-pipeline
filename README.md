@@ -1,6 +1,8 @@
 # Multi-Source Energy and Emissions ETL Pipeline
 
-> **Simulation-based case study.** Three hypothetical sites report the same kind of data in three incompatible ways. A known truth table is generated first, so the pipeline's accuracy is measured against it.
+[![tests](https://github.com/Rabbani-bot/emissions-etl-pipeline/actions/workflows/tests.yml/badge.svg)](https://github.com/Rabbani-bot/emissions-etl-pipeline/actions/workflows/tests.yml) ![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
+> **Design.** Three sites report the same kind of data in three incompatible ways. A ground-truth table is generated first, so the pipeline's accuracy is measured against it.
 
 ![unified series](outputs/unified_series.png)
 
@@ -39,6 +41,7 @@ Author: Mohammad Rabbani – Sustainability Data Analyst & Research Consultant
 
 ## Links
 - Kaggle notebook: https://www.kaggle.com/rabbani0123 (runnable copy of `notebook.ipynb`)
+- Cite: see `CITATION.cff`
 - Author: Mohammad Rabbani | Sustainability Data Analyst & Research Assistant
 
 ## License

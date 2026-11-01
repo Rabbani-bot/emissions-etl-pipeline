@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Multi-Source Energy and Emissions ETL Pipeline"
+authors:
+  - family-names: Rabbani
+    given-names: Mohammad
+version: 1.0.0
+date-released: 2026-11-01
+license: MIT
+repository-code: "https://github.com/Rabbani-bot/emissions-etl-pipeline"
+keywords: [etl, data-pipeline, data-engineering, energy-data, emissions, data-validation, python, pandas]
